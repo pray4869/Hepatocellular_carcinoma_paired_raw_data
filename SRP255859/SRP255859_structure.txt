@@ -1,0 +1,57 @@
+├── paired_01
+SRR11517984.sra
+SRR11518061.sra
+├── paired_02
+SRR11517982.sra
+SRR11518063.sra
+├── paired_03
+SRR11517981.sra
+SRR11518072.sra
+├── paired_04
+SRR11517971.sra
+SRR11518019.sra
+├── paired_05
+SRR11518003.sra
+SRR11518020.sra
+├── paired_06
+SRR11517974.sra
+SRR11518060.sra
+├── paired_07
+SRR11517995.sra
+SRR11518076.sra
+├── paired_08
+SRR11517977.sra
+SRR11518067.sra
+├── paired_09
+SRR11518014.sra
+SRR11518041.sra
+├── paired_10
+SRR11517997.sra
+SRR11518039.sra
+├── paired_11
+SRR11517983.sra
+SRR11518022.sra
+├── paired_12
+SRR11518000.sra
+SRR11518042.sra
+├── paired_13
+SRR11517957.sra
+SRR11518043.sra
+├── paired_14
+SRR11517975.sra
+SRR11518046.sra
+├── paired_15
+SRR11517978.sra
+SRR11518073.sra
+├── paired_16
+SRR11517991.sra
+SRR11518048.sra
+├── paired_17
+SRR11517989.sra
+SRR11518053.sra
+├── paired_18
+SRR11517990.sra
+SRR11518075.sra
+├── paired_19
+SRR11517980.sra
+SRR11518074.sra
