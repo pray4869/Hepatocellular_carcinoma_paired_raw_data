@@ -1,0 +1,2 @@
+# Hepatocellular_carcinoma_paired_raw_data
+这是肝细胞癌明确癌与癌旁配对的双端原始数据，在GEO数据库可以查找到
